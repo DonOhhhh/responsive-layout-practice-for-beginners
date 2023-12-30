@@ -35,7 +35,6 @@ html {
 
 body {
 	margin: 0;
-	padding-block-end: 5rem;
 }
 
 header {
@@ -50,9 +49,6 @@ h1 {
 
 h1 span {
     font-weight: var(--fw-bold);
-}
-
-header > p {
 }
 
 h1,
